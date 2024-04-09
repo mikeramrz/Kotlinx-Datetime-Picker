@@ -60,17 +60,6 @@ https://github.com/spectechular/Kotlinx-Datetime-Picker/assets/11188935/b1febafb
 
 https://github.com/spectechular/Kotlinx-Datetime-Picker/assets/11188935/35a31280-3138-4507-978c-54574d62e117
 
-
-#Kotlinx-datetime Library
-Add the library to your gradle file
-
-```implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.6.0-RC.2")```
-
-
-At time of creation we only have kotlinx-datetime:0.6.0-RC.2
-Still without an unofficial release.
-It has exactly what I want in a time library. Concise, clear APIs. 
-Time can be confusing and complex especially crossing time zones and ever changing daylight savings.
 You can read this that goes into detail regarding UTC and decisions and tradeoffs to be made when designing systems with time:
 
 https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/
